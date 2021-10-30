@@ -1,0 +1,9 @@
+.item {
+  margin: 10px;
+}
+.btn {
+  margin-left: 20px;
+  border-radius: 5px;
+  background-color: white;
+  border: 0.5px solid gray;
+}
